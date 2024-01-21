@@ -1,0 +1,6 @@
+id: 103
+firstname: Thalia
+lastname: Loring
+email: Thalia.Loring@email.com
+country: Switzerland
+profession: worker

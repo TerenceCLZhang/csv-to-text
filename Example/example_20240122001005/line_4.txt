@@ -1,0 +1,6 @@
+id: 102
+firstname: Consuela
+lastname: Anestassia
+email: Consuela.Anestassia@email.com
+country: Kiribati
+profession: developer

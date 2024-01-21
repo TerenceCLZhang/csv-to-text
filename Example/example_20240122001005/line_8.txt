@@ -1,0 +1,6 @@
+id: 106
+firstname: Clarice
+lastname: Love
+email: Clarice.Love@email.com
+country: Cambodia
+profession: worker

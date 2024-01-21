@@ -1,0 +1,6 @@
+id: 104
+firstname: Lorie
+lastname: Tippets
+email: Lorie.Tippets@email.com
+country: Equatorial Guinea
+profession: developer
