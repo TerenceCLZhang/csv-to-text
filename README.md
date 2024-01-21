@@ -2,11 +2,13 @@
 
 This Python application provides a user-friendly interface to convert the content of a CSV file into individual TXT files. Each row in the CSV file is transformed into a separate TXT file, allowing for better organization and accessibility of data.
 
+![Application](images/window.PNG)
+
 ## Getting Started
 
 To use the application, follow these steps:
 
-1. Install Python and download this repository with `git clone ` or download as a ZIP file.
+1. Install Python and download this repository with the `git clone` command or download as a ZIP file.
 
 2. Install the tkinter library with `pip install tkinter` for Windows and MacOS or `pip3 install tkinter` for Linux.
 
@@ -14,7 +16,7 @@ To use the application, follow these steps:
 
 ## How to Use
 
-1. Select CSV File
+1. Select a CSV File
 2. Select a Folder for where the txt Files will be created (It will be set to the current directory of the App.py file by default)
 3. Press the Convert Button to start converting each line into a .txt file
 4. The process should be complete once the progress bar is filled up and "Completed" is shown below it
@@ -42,4 +44,6 @@ profession: worker
 
 Ensure that the selected CSV file is correctly formatted to avoid errors during conversion.
 
-Currently, the only formatted supported is where the first row are headers and the rest contain data.
+Currently, the only formatted supported is where the first row are headers and the rest contain data. Below is an example CSV file:
+
+![Currently Supported CSV File](images/example_csv_file.PNG)
