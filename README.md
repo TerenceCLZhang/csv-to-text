@@ -8,11 +8,11 @@ This Python application provides a user-friendly interface to convert the conten
 
 To use the application, follow these steps:
 
-1. Install Python and download this repository with the `git clone` command or download as a ZIP file.
+1. Install Python and download this repository with the `git clone` command, or download it as a ZIP file.
 
 2. Install the tkinter library with `pip install tkinter` for Windows and MacOS or `pip3 install tkinter` for Linux.
 
-3. Run the Application with either `python App.py` for Windows or MacOS or `python3 App.py` for Linux. Alternatively you can run the script by double clicking the App.py file.
+3. Run the Application with either `python App.py` for Windows or MacOS or `python3 App.py` for Linux. Alternatively, you can run the script by double-clicking the App.py file.
 
 ## How to Use
 
@@ -44,6 +44,6 @@ profession: worker
 
 Ensure that the selected CSV file is correctly formatted to avoid errors during conversion.
 
-Currently, the only formatted supported is where the first row are headers and the rest contain data. Below is an example CSV file:
+Currently, the only format supported is where the first row is headers, and the rest contain data. Below is an example CSV file:
 
 ![Currently Supported CSV File](images/example_csv_file.PNG)
